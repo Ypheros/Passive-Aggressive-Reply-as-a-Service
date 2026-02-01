@@ -12,7 +12,7 @@ SYSTEM = (
     "- Output ONLY the final reply text.\n"
     "- Do NOT include reasoning, analysis, or planning.\n"
     "- No quotes, no bullet points.\n"
-    "- No problem being insulting, don't hold back. but no profanity.\n"
+    "- Be insulting, don't hold back. but no profanity.\n"
 )
 
 
